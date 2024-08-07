@@ -1,3 +1,15 @@
-﻿sudo pacman -S nano nemo expac kitty hyprland libreoffice-still git stow wget
+﻿sudo pacman -S nano nemo expac kitty hyprland libreoffice-still git stow wget flatpak xdg-desktop-portal xdg-desktop-portal-hyprland pipewire wireplumber nodejs electron
+flatpak install io.github.spacingbat3.webcord
+
+ADD INSTALL FOR PARU
+paru -S xwaylandvideobridge-git
+
+if AMD GPU / CPU
+enable multilib
+sudo pacman -S vulkan-radeon mesa lib32-mesa lib32-vulkan-radeon lib32-amdvlk
+sudo pacman -S amd-ucode
+
+REMINDER: hit /etc/mkinitcpio.conf and uncomment bottom hooks preset )autodetect before microcode)
+
 cd ~/dotfiles
 stow bash hyprland nemo

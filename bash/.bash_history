@@ -154,3 +154,119 @@ cd /home/Ian_NYC_2003/dotfiles
 stow nemo
 stow hyprland nemo
 stow hyprland nemo
+Hyprland
+stow hyprland
+cd /home/Ian_NYC_2003/dotfiles
+stow bash
+cd $HOME
+cd /home/Ian_NYC_2003/.dotfiles
+stow .
+stow hyprland nemo bash
+stow hyprland nemo bash
+stow bash
+stow hyprland
+stow hyprland nemo bash
+git init
+git add .
+git commit -m "My first commit"
+cd $HOME
+git config --global user.name "Ian_NYC_2003"
+git config --global user.email "ian.nyc.2003@gmail.com"
+git config --global --list
+cd /home/Ian_NYC_2003/.dotfiles
+git commit -m "My first commit"
+git remote add origin https://github.com/ian-a-narcisse/ian-a-narcisse.git
+git push -u origin master
+git push -u origin master
+git push origin master
+git add .
+git commit -m "Commit #2, just to test"
+git push origin master
+cd $HOME
+poweroff
+Hyprland
+sudo pacman -S flatpak
+sudo pacman -S flatpak
+ping arch.org
+yay -Syu
+sudo pacman -Syu
+sudo pacman -S flatpak
+flatpak install io.github.spacingbat3.webcord
+reboot
+sudo pacman -Qe
+cd ~/Desktop/aur
+git clone https://aur.archlinux.org/paru.git
+cd paru
+makepkg -si
+cd $HOME
+sudo pacman -Qe
+flatpak install io.github.spacingbat3.webcord
+exec $webcord
+flatpak run io.github.spacingbat3.webcord
+flatpak run io.github.spacingbat3.webcord
+Hyprland
+sudo pacman -S xdg-desktop-portal-hyrpland pipewire wireplumber
+sudo pacman -S xdg-desktop-portal xdg-desktop-portal-hyrpland wireplumber
+sudo pacman -S xdg-desktop-portal-hyprland
+paru -S xwaylandvideobridge-git
+reboot
+flatpak run io.github.spacingbat3.webcord
+nano /home/Ian_NYC_2003/.dotfiles/webcord/.config/electron-flags.conf
+flatpak run io.github.spacingbat3.webcord
+flatpak run io.github.spacingbat3.webcord
+flatpak run io.github.spacingbat3.webcord
+nano /home/Ian_NYC_2003/.dotfiles/webcord/.config/electron-flags.conf
+cd ~/.dotfiles
+stow webcord
+Hyprland
+reboot
+flatpak run io.github.spacingbat3.webcord
+Hyprland
+sudo pacman -Qe
+sudo pacman -S nodejs
+sudo pacman -S electron
+reboot
+flatpak run io.github.spacingbat3.webcord
+sudo pacman -S wireplumber
+sudo pacman -Qe
+sudo pacman -S xdg-desktop-portal
+sudo pacman -S pipewire
+flatpak run io.github.spacingbat3.webcord
+flatpak run io.github.spacingbat3.webcord
+Hyprland
+sudo pacman -Qe
+reboot
+flatpak run io.github.spacingbat3.webcord
+Hyprland
+sudo pacman -S mesa lib32-mesa lib32-vulkan-readeon
+sudo pacman -S lib32-mesa lib32-vulkan-radeon
+sudo pacman -S lib32-mesa lib32-vulkan-radeon lib32-amd-vlk
+sudo pacman -S lib32-mesa lib32-vulkan-radeon lib32-amdvlk
+sudo find / -iname pacman.conf
+nano /etc/pacman.conf
+su -
+flatpak run io.github.spacingbat3.webcord
+Hyprland
+flatpak run io.github.spacingbat3.webcord
+sudo pacman -S lib32-mesa lib32-vulkan-radeon lib32-amdvlk
+nano ~/.bashrc
+reboot
+flatpak run io.github.spacingbat3.webcord
+nano /etc/mkinitcpio.conf
+su -
+cd $HOME
+cd ~/Desktop 
+wget https://cdn.discordapp.com/attachments/1142510774003179612/1270782011589529640/hyprland.conf?ex=66b4f379&is=66b3a1f9&hm=76181819c1730ba6069dfb7fd14046ffa4c4b5140b94e97b7745042abd440cf3&
+wget https://cdn.discordapp.com/attachments/1142510774003179612/1270782011589529640/hyprland.conf?ex=66b4f379&is=66b3a1f9&hm=76181819c1730ba6069dfb7fd14046ffa4c4b5140b94e97b7745042abd440cf3&
+cd $HOME
+nano /home/Ian_NYC_2003/.dotfiles/hyprland/.config/hypr/hyprland.conf
+cd ~desktop
+cd clone_dots
+cd /clone_dots
+cd ~/Desktop/clone_dots
+git clone https://github.com/ian-a-narcisse/ian-a-narcisse.git
+git clone -b master  https://github.com/ian-a-narcisse/ian-a-narcisse.git
+git clone -b master https://github.com/ian-a-narcisse/ian-a-narcisse.git
+git clone -b master https://github.com/ian-a-narcisse/ian-a-narcisse.git
+cd $HOME
+nano /home/Ian_NYC_2003/.dotfiles/hyprland/.config/hypr/hyprland.conf

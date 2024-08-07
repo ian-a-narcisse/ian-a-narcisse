@@ -1,0 +1,3 @@
+﻿sudo pacman -S nano nemo expac kitty hyprland libreoffice-still git stow wget
+cd ~/dotfiles
+stow hyprland nemo
